@@ -63,4 +63,4 @@ These decisions come together to create a modern, professional, and visually eng
 
 - **HTML** for structuring the content
 - **CSS** for styling the layout and interactive elements
-- **Responsive Design** to ensure accessibility on various screen sizes
+
